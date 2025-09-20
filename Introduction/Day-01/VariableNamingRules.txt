@@ -1,0 +1,10 @@
+1) Variable can start from an alphabet or underscore _ or $.
+2) Speacle characters except _ and $ are not allowed.
+3) Some particular keywords are not allowed.
+4) Commas or blanks are not allowed.
+
+a b c d e f A B C D E F , _ , $
+! @ # % & * () - + = / | \ : ;           -> not allowed
+
+auto    double  int break   extern  enum    unsigned    while   characters sizeof   for     const    static long    continue    float    else    signed      do short   switch  charactersvolatile  default goto struct  if union   return  void register   typeof
+
