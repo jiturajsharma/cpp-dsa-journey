@@ -1,0 +1,14 @@
+C++ Relational Operators
+
+== Is Equal to                                  int x = 4;    -> Assignment
+
+!= Not Equal to                                x == 5; -> comparision
+
+> Greater Than
+
+
+char data type
+char ch = "Hanji";
+
+
+ASCII value
